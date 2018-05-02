@@ -10,6 +10,7 @@ Vue.use(Vuetify)
 Vue.config.productionTip = false
 
 import 'vuetify/dist/vuetify.min.css'
+import 'material-design-icons-iconfont/dist/material-design-icons.css'
 
 /* eslint-disable no-new */
 new Vue({
